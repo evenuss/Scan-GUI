@@ -1,7 +1,7 @@
 altgraph==0.17
 colorama==0.4.3
 future==0.18.2
-numpy==1.18.3
+numpy==1.22.0
 opencv-python==4.2.0.34
 pandas==1.0.3
 pefile==2019.4.18
